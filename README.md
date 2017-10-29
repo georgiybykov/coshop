@@ -1,3 +1,3 @@
 # README
 
-'coshop' by agile web-development with ruby on rails# coshop
+'coshop' by agile web-development with ruby on rails
