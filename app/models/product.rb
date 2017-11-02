@@ -6,4 +6,5 @@ class Product < ApplicationRecord
     with: %r{\.(gif|jpg|png)\Z}i,
     message: 'URL should point on image with extention GIF, JPG or PNG.'
   }
+  validates_length_of :title, minimum: 10, too_short: 'must be at least 10 characters long'
 end

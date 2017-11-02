@@ -3,11 +3,18 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: peaceful_warrior.jpg
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: peaceful_warrior.jpg
   price: 9.99
+
+book:
+  title: Peaceful warrior
+  description:
+    Warrior is the person you should to become. Because you will achive all your goals and feel quite inside.
+  price: 29.95
+  image_url: peaceful_warrior.jpg
