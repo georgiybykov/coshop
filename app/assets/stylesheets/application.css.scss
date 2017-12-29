@@ -32,6 +32,16 @@ body, body > p, body > ol, body > ul, body > td {margin: 8px !important}
     left: 0;
     width: 65px;
   }
+
+  p {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    width: 65px;
+    color: yellow;
+    font-size: small;
+    font-weight: bold;
+  }
 }
 
 #notice {

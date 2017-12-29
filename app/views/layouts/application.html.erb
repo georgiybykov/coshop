@@ -11,6 +11,7 @@
     <div id="banner">
       <%= image_tag 'logo.png', alt: 'Bookshelf of Warrior' %>
       <span class="title"><%= @page_title %></span>
+      <p><%= l @time, format: :short %></p>
     </div>
     <div id="columns">
       <div id="side">
