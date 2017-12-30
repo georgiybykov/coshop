@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
 
   private
 
-  def time_loaded
-    @time = Time.now
-  end
+    def time_loaded
+      @time = Time.now
+    end
 end
